@@ -1,2 +1,2 @@
 # Background-Generator
-Here we are going to show you how to make backgrounds in css
+Here we are going to show you how to make backgrounds in CSS
